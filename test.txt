@@ -1,3 +1,5 @@
 git 에서 수정
+github에서 수정
+origin/master
 master에서 수정
 user에서 수정
